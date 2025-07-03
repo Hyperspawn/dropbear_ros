@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.xacro text eol=lf
+*.urdf text eol=lf
+*.py text eol=lf
+*.launch.py text eol=lf
+*.xml text eol=lf
+*.md text eol=lf
+*.yaml text eol=lf
